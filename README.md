@@ -1,5 +1,5 @@
 # Triatominae_SpRichness
-Functions used in Ceccarelli et al. Temporal, spatial and ecological analysis of Argentinean triatomine species, vectors of Chagas disease. Submitted to Scientific Data.
+Functions used in Ceccarelli et al. Temporal, spatial and ecological analysis of Argentinean triatomine species, vectors of Chagas disease. Submitted to Scientific Data Journal.
 
 File description:
 
